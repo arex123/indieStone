@@ -1,0 +1,30 @@
+.form {
+    height: 100vh;
+    width: 100vw;
+}
+
+.form .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Juana, serif;
+    height: 40%;
+    color: #DD7F41;
+    padding: 40px;
+}
+
+.container .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F8F9F3;
+    width: 80%;
+    height: 100%;
+}
+
+.title h1 {
+    font-size: 72px;
+    line-height: 130%;
+    font-weight: 400;
+
+}
